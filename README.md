@@ -1,2 +1,2 @@
 # Brouter3
-An awesome modern router for Blazor.
+An awesome convention-based router for Blazor.
